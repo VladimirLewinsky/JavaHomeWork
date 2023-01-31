@@ -67,8 +67,8 @@ public class H3 {
         System.out.println(spisok);
 
         //9. Удалить из первого списка все элементы отсутствующие во втором списке.
-        // list.retainAll(spisok);      
-        // System.out.println(list);
+        list.retainAll(spisok);      
+        System.out.println(list);
         // 10.*Сортировка списка
         
         System.out.println(list);
